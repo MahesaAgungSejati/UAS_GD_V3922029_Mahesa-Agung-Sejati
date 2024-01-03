@@ -1,0 +1,2 @@
+UAS Game Development Link file project saya upload di Gdrive karena file terlalu besar jadi tidak bisa langsung di upload di GitHub
+https://drive.google.com/drive/folders/1PijfnnuTs31ciepLcmePn28VWehHwq80?usp=drive_link
